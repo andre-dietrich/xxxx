@@ -12,7 +12,7 @@ narrator: US English Female
 comment:  Try to write a short comment about
           your course, multiline is also okay.
 
-link:   ./style.css
+link:   https://raw.githubusercontent.com/andre-dietrich/xxxx/main/style.css
 
 script: https://kit.fontawesome.com/83b2343bd4.js
 
